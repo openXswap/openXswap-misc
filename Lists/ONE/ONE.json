@@ -1,9 +1,20 @@
 {
 	"1666600000": [
 		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Harmony/openXswap.json",
-		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Harmony/ViperSwap-Default.json",
-		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Harmony/ViperSwap-Community-List.json",
-		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Harmony/Defira-Default.json",
-		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Harmony/LootSwap-Default.json"
+		"https://raw.githubusercontent.com/DefiKingdoms/community-token-list/main/build/defikingdoms-community.tokenlist.json",
+		"https://raw.githubusercontent.com/DefiKingdoms/community-token-list/main/src/defikingdoms-default.tokenlist.json",
+		"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/lists/venomswap-default.tokenlist.json",
+		"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/lists/venomswap-community.tokenlist.json"
+		"https://token-list.sushi.com/chainlink"
+		"https://www.gemini.com/uniswap/manifest.json"
+		"https://token-list.sushi.com"
+		"tokenlist.aave.eth"
+		"https://tokens.coingecko.com/uniswap/all.json"
+		"https://api.coinmarketcap.com/data-api/v3/uniswap/all.json"
+		"https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json"
+		"https://list.dhedge.eth.link"
+		"t2crtokens.eth"
+		"https://nftx.ethereumdb.com/v2/tokenlist/"
+		"https://raw.githubusercontent.com/elkfinance/tokens/main/top.tokenlist.json"
 	]
 }
